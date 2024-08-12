@@ -1,1 +1,1 @@
-nvidia/cuda:11.1.1-cudnn8-devel-centos7
+11.2.2-cudnn8-devel-centos7
